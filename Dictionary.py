@@ -1,3 +1,4 @@
+# key: value
 customer={
     "name":"John Smith",
     "age":30,
